@@ -41,6 +41,7 @@ I take great care in the experience, architecture, and code quality of the thing
 - 📫 How to reach me: ben.weider081@yahoo.com
 - 😄 Pronouns: He/His
 
+![GitHub Activity Graph](http://activity-graph.herokuapp.com/graph?username=gitproman0211&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
 ### Connect with me to get more:
 [![Linkedin Badge](https://img.shields.io/badge/-James-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-gao-49461a217/)](https://www.linkedin.com/in/james-gao-49461a217/)
