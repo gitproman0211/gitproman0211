@@ -4,8 +4,10 @@
 <h3 align="center">Blockchain Specialist / Full Stack Engineer</h3>
 <br />
 
-<p>Creative and results-oriented software engineer with a focus on the design and implementation of backend side. 8+ years of experience in developing.
-Skilled in agile processes, backend and frontend development, and creating financial dApp on blockchain.</p>
+Creative and results-oriented software engineer with a focus on the design and implementation of backend side. 8+ years of experience in developing.
+Skilled in agile processes, backend and frontend development, and creating financial dApp on blockchain.
+
+Lover of everything related to generate innovation and new knowledge. Problem solver who faces them with a smile and solves them as quickly as possible. I am interested in winter sports such as snowboarding.
 
 <br />
 
