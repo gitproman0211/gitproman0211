@@ -1,4 +1,7 @@
-<!-- [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]() -->
+<!-- ![avatar](https://user-images.githubusercontent.com/54070162/169735836-f46678b0-9a7c-4cc9-9ce6-fed88e5e3e32.png) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54070162/169735836-f46678b0-9a7c-4cc9-9ce6-fed88e5e3e32.png" alt="logo" width="200px" />
+</p>
 
 <h1 align="center">Hi 👋, I'm James Gao</h1>
 <h3 align="center">Blockchain Specialist / Full Stack Engineer</h3>
@@ -9,19 +12,14 @@ Skilled in agile processes, backend and frontend development, and creating finan
 
 Lover of everything related to generate innovation and new knowledge. Problem solver who faces them with a smile and solves them as quickly as possible. I am interested in winter sports such as snowboarding.
 
-<br />
-
-<img src="https://raw.githubusercontent.com/deep-quality-dev/deep-quality-dev/main/code.gif" align="right" alt="" width="50%">
-
 - 👯 I collaborate with **Good client**
 
-- 👨‍💻 You can see [here](https://jgoodidea.netlify.app/) more about me and my work
+- 👨‍💻 You can see my portfolio [here](https://jgoodidea.netlify.app/) more about me and my work
 
 - 📫 Reach me at **gloproman0211@gmail.com**
 
 - 😄 Pronouns: He/His
 
-<br />
 <p align="left">
   <h3 align="left">Connect with me:
     <a href="https://linkedin.com/in/jgoodidea" target="_blank">
