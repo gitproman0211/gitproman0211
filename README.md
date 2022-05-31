@@ -4,7 +4,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm James Gao</h1>
-<h3 align="center">Blockchain Specialist / Full Stack Engineer</h3>
+<h3 align="center">Full Stack Engineer</h3>
+<h4 align="center">Web/App/Blockchain development</h4>
 <br />
 
 Creative and results-oriented software engineer with a focus on the design and implementation of backend side. 8+ years of experience in developing.
