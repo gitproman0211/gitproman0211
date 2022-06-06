@@ -6,6 +6,18 @@
 <h1 align="center">Hi 👋, I'm James Gao</h1>
 <h3 align="center">Full Stack Engineer</h3>
 <h4 align="center">Web/App/Blockchain development</h4>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jgoodidea/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:gloproman0211@gmail.com">
+    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff">
+  </a>
+  <a href="https://docs.google.com/document/d/1NiED6v1HmS70jZ030VQxSh2gQhC4DNz0/export?format=pdf">
+    <img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=readthedocs&logoColor=fff">
+  </a>
+</div>
 <br />
 
 Creative and results-oriented software engineer with a focus on the design and implementation of backend side. 8+ years of experience in developing.
