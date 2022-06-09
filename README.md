@@ -4,8 +4,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm James Gao</h1>
-<h3 align="center">Full Stack Engineer</h3>
-<h4 align="center">Web/App/Blockchain development</h4>
+<h3 align="center">Software Engineer</h3>
+<h4 align="center">Web / App / Blockchain development</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jgoodidea/">
