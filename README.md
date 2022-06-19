@@ -1,6 +1,8 @@
 <!-- ![avatar](https://user-images.githubusercontent.com/54070162/169735836-f46678b0-9a7c-4cc9-9ce6-fed88e5e3e32.png) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54070162/169735836-f46678b0-9a7c-4cc9-9ce6-fed88e5e3e32.png" alt="logo" width="200px" />
+<!--   ![138764839-1011988e-66f2-4427-a8fc-e0380971df29](https://user-images.githubusercontent.com/54070162/174496519-13882cb7-21d8-4046-aa21-1cf2b805cc20.gif) -->
+<!--   <img src="https://user-images.githubusercontent.com/54070162/169735836-f46678b0-9a7c-4cc9-9ce6-fed88e5e3e32.png" alt="logo" width="200px" /> -->
+  <img src="https://user-images.githubusercontent.com/54070162/174496519-13882cb7-21d8-4046-aa21-1cf2b805cc20.gif" alt="welcome" />
 </p>
 
 <h1 align="center">Hi 👋, I'm James Gao</h1>
