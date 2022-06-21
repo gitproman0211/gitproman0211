@@ -133,3 +133,19 @@ Lover of everything related to generate innovation and new knowledge. Problem so
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="mongodb" width="40" height="40" />
 </a>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<p align="center">
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=gitproman0211&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=gitproman0211&theme=tokyonight"
+    />
+</p>
