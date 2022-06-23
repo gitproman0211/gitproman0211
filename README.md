@@ -149,3 +149,5 @@ Lover of everything related to generate innovation and new knowledge. Problem so
         src="https://github-readme-streak-stats.herokuapp.com?user=gitproman0211&theme=tokyonight"
     />
 </p>
+
+<img alt="JGoodIdea's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gitproman0211&bg_color=1F222E&color=F8D866&line=587FC2&point=FFFFFF&hide_border=true" />
