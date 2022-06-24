@@ -150,4 +150,4 @@ Lover of everything related to generate innovation and new knowledge. Problem so
     />
 </p>
 
-<img alt="JGoodIdea's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gitproman0211&bg_color=1F222E&color=BE91F2&line=587FC2&point=2F8F88&hide_border=true" />
+<img alt="JGoodIdea's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gitproman0211&bg_color=1F222E&color=BE91F2&line=587FC2&point=FFFFFF&hide_border=true" />
