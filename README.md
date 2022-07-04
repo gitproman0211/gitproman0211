@@ -16,7 +16,7 @@
   <a href="mailto:gloproman0211@gmail.com">
     <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff">
   </a>
-  <a href="https://docs.google.com/document/d/1NiED6v1HmS70jZ030VQxSh2gQhC4DNz0/export?format=pdf">
+  <a href="https://drive.google.com/file/d/1gG7MbOGphllxj_U9UGz4oH5zeUKvXIek/view?usp=sharing">
     <img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=readthedocs&logoColor=fff">
   </a>
 </div>
