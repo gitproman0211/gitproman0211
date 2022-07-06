@@ -29,7 +29,7 @@ Lover of everything related to generate innovation and new knowledge. Problem so
 
 - 👯 I collaborate with **Good client**
 
-- 👨‍💻 You can see my portfolio [here](https://jgoodidea.netlify.app/) more about me and my work
+- 👨‍💻 You can see my portfolio [jgoodidea.netlify.app](https://jgoodidea.netlify.app/) more about me and my work
 
 - 📫 Reach me at **gloproman0211@gmail.com**
 
