@@ -141,6 +141,11 @@ Lover of everything related to generate innovation and new knowledge. Problem so
 
 <p align="center">
     <img
+        alt="JGoodIdea's most languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitproman0211&layout=compact&langs_count=8&theme=tokyonight"
+    />
+    <br />
+    <img
         width="49%"
         src="https://github-readme-stats.vercel.app/api?username=gitproman0211&count_private=true&include_all_commits=false&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
@@ -151,3 +156,4 @@ Lover of everything related to generate innovation and new knowledge. Problem so
 </p>
 
 <img alt="JGoodIdea's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gitproman0211&bg_color=1F222E&color=BE91F2&line=587FC2&point=FFFFFF&hide_border=true" />
+
