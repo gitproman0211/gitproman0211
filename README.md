@@ -20,6 +20,9 @@
     <img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=readthedocs&logoColor=fff">
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gitproman0211&style=flat-square&color=blue" alt=""/>
+</div>
 <br />
 
 Creative and results-oriented software engineer with a focus on the design and implementation of backend side. 8+ years of experience in developing.
