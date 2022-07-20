@@ -43,9 +43,9 @@ Lover of everything related to generate innovation and new knowledge. Problem so
     <a href="https://linkedin.com/in/jgoodidea" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="james" height="40" width="40" />
     </a>
-    <!-- <a href="https://twitter.com/jgoodidea" target="_blank">
+    <a href="https://twitter.com/jgoodidea" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="james" height="40" width="40" />
-    </a> -->
+    </a>
   </h3>
 </p>
 
